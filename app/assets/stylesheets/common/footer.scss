@@ -13,5 +13,10 @@
 
 .sidebar:after, .sidebar:before, body > .navbar-collapse:after, body > .navbar-collapse:before
 {
-  height: 115% !important;  
+  height: 116% !important;  
+}
+
+.sidebar .sidebar-background
+{
+  height: 116% !important;
 }
