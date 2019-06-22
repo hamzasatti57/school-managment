@@ -10,3 +10,8 @@
 {
   margin-right: 5px;
 }
+
+.sidebar:after, .sidebar:before, body > .navbar-collapse:after, body > .navbar-collapse:before
+{
+  height: 115% !important;  
+}
