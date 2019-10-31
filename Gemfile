@@ -17,7 +17,7 @@ gem 'simple_form',    '~> 3.5'
 gem 'haml-rails',     '~> 1.0'
 gem 'jquery-rails',   '~> 4.3'
 gem 'carrierwave',    '~> 1.1'
-gem 'devise',         '~> 4.3'
+gem 'devise',         '~> 4.7'
 gem 'font-awesome-sass'
 gem 'bootstrap3-datetimepicker-rails', '~> 4.17.47'
 
